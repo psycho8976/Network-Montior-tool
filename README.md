@@ -131,6 +131,4 @@ npm run preview
 
 The built files will be in the `dist/` directory, ready for deployment to any static hosting service.
 
-## 📄 License
-
-MIT License - Free to use and modify for personal and commercial projects.
+(You can add a CONTRIBUTING.md later if you want stricter guidelines)
